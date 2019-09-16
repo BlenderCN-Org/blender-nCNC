@@ -5,7 +5,7 @@
 
 * It converts curves into G code for CNC machining in the Blender 2.8 ( Tr: Blender 2.8'de eğrileri (Curves), CNC'de işlenmek üzere, G koduna dönüştürmektedir.)
 * Only tested with the GRBL card and works ( Tr: Sadece GRBL kartıyla denenmiştir ve çalışmaktadır. )
-* Destek devam etmediğinden gelişme devam edemeyebilir. ( Tr: Destek olmadığından dolayı geliştirme devam etmeyebilir.)
+* Development may not continue as support does not continue. ( Tr: Destek olmadığından dolayı geliştirme devam etmeyebilir.)
 
 
 ## Table of content ( İçerik )
