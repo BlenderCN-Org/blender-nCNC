@@ -17,6 +17,7 @@
   * [How do I include it in g code](#Include-in-G-code)
   * [How to change to curves resolution](#Resolution-Curve)
   * [How to export G code](#Export-Gcode)
+* [License](#License)
 
 
 ## Install
@@ -59,3 +60,8 @@ First download this addon:
 ### Export Gcode
 (Tr: G kodunu dışa aktarma)
 ![Resolution Curve](images/nCNC-Export.gif)
+
+
+
+## License
+The nCNC addon is licensed under the terms of the GPL Open Source license and is available for free. ( Tr: Bedava indir kullan )
