@@ -1,7 +1,10 @@
 # Blender nCNC
 [![Blender Addon](https://img.shields.io/badge/Blender-2.8-blue)](https://www.blender.org/download/releases/2-80/)
-[![Blender Addon](https://img.shields.io/badge/Addon-nCNC-brightgreen)](https://github.com/nesivmi/blender-nCNC)
+[![Blender Addon](https://img.shields.io/badge/Addon-nCNC-green)](https://github.com/nesivmi/blender-nCNC)
 [![Blender Addon](https://img.shields.io/badge/Version-v0.0.3-orange)](https://github.com/nesivmi/blender-nCNC)
+[![Blender Addon](https://img.shields.io/badge/license-GPL--3.0-green)](https://github.com/nesivmi/blender-nCNC)
+
+
 
 * It converts curves into G code for CNC machining in the Blender 2.8 ( Tr: Blender 2.8'de eğrileri (Curves), CNC'de işlenmek üzere, G koduna dönüştürmektedir.)
 * Only tested with the GRBL card and works ( Tr: Sadece GRBL kartıyla denenmiştir ve çalışmaktadır. )
