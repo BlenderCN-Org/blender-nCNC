@@ -22,9 +22,7 @@
 
 ## Install
 
-First download this addon:
-
-[![Download](https://img.shields.io/badge/Download-%20-brightgreen)](https://github.com/nesivmi/blender-nCNC)
+This addon: [![Download](https://img.shields.io/badge/Download-%20-brightgreen)](https://github.com/nesivmi/blender-nCNC)
 
 
 ![Install](images/nCNC-Setup.gif)
